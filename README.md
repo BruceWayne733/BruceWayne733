@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BruceWayne733
 - 👀 I’m interested in Software Development, Competitive Coding, Quantitative Finance and Machine Learning
-- 🌱 Open Source enthusiast | Skilled in C and Python
+- 🌱 Open Source enthusiast | Skilled in JavaScript and C
 - 📫 How to reach me: Just message me!
 
 <!---
